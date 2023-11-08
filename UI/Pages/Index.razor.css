@@ -1,0 +1,18 @@
+﻿/* Original aspect ratio */
+.bg-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    padding-bottom: 62.5%; /* 900/1440*100 */
+    background: url('/img/index/home.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+
+.content-wrapper {
+    position: relative;
+    z-index: 1;
+}

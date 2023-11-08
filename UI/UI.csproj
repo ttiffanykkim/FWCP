@@ -17,4 +17,14 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.12" PrivateAssets="all" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\js\" />
+    <Content Remove="wwwroot\img\" />
+    <Content Remove="wwwroot\img\index\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\js\" />
+    <Folder Include="wwwroot\img\" />
+    <Folder Include="wwwroot\img\index\" />
+  </ItemGroup>
 </Project>
