@@ -21,16 +21,20 @@
     <Content Remove="wwwroot\js\" />
     <Content Remove="wwwroot\img\" />
     <Content Remove="wwwroot\img\index\" />
-    <Content Remove="wwwroot\img\benefit\" />
     <Content Remove="wwwroot\img\intern\" />
     <Content Remove="wwwroot\img\life\" />
+    <Content Remove="wwwroot\img\benefits\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="wwwroot\js\" />
     <Folder Include="wwwroot\img\" />
     <Folder Include="wwwroot\img\index\" />
-    <Folder Include="wwwroot\img\benefit\" />
     <Folder Include="wwwroot\img\intern\" />
     <Folder Include="wwwroot\img\life\" />
+    <Folder Include="Shared\Apply\" />
+    <Folder Include="wwwroot\img\benefits\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Shared\Apply\" />
   </ItemGroup>
 </Project>
