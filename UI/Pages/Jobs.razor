@@ -1,4 +1,6 @@
-﻿@page "/apply"
+﻿@page "/jobs"
+@inject JobService JobService
+
 <div class="container">
     <div class="my-5 mx-auto text-center w-50">
         <h1 class="mb-3">Find your perfect role.</h1>
@@ -95,16 +97,29 @@
             <div class="col-md-8">
                 <p class="text-muted">1 filter(s) applied</p>
                 <p class="ms-5"> United States</p>
-                <hr/>
+                <hr />
                 <div class="d-flex mb-5">
                     <div class="me-auto fs-5 fw-bold">600+ Results</div>
                     <div class="fs-5">Sort By: <span class="fw-bold">Newest</span><i class="ms-3 fas fa-angle-down"></i></div>
                 </div>
-                @{for (int i = 0; i < 20; i++)
-                {
-                    <JobItem></JobItem>
-                }}
+                @{
+                    foreach (var jobSummary in JobSummaries)
+                    {
+                        <JobItemComponent JobSummary=jobSummary></JobItemComponent>
+                    }
+                }
             </div>
         </div>
     </div>
 </div>
+
+
+@code {
+
+    public List<JobSummary> JobSummaries = new List<JobSummary>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        JobSummaries = await JobService.GetJobList();
+    }
+}
