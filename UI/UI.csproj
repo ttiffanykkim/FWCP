@@ -33,8 +33,15 @@
     <Folder Include="wwwroot\img\life\" />
     <Folder Include="Shared\Apply\" />
     <Folder Include="wwwroot\img\benefits\" />
+    <Folder Include="Services\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Shared\Apply\" />
+    <None Remove="Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CareerWebApp.Models\CareerWebApp.Models.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 </Project>
