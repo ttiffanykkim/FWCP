@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = UI
+build_property.RootNamespace = UI
+build_property.ProjectDir = /Users/tiffanykim/Desktop/FWCP/UI/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/tiffanykim/Desktop/FWCP/UI
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Pages/Benefits.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQmVuZWZpdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Pages/Internship.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW50ZXJuc2hpcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Pages/Job.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSm9iLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Pages/LifeAtUju.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGlmZUF0VWp1LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Shared/Apply/JobDescriptionComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0FwcGx5L0pvYkRlc2NyaXB0aW9uQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Shared/Apply/JobItemComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0FwcGx5L0pvYkl0ZW1Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Shared/Apply/JobQuestionnaireComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0FwcGx5L0pvYlF1ZXN0aW9ubmFpcmVDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Shared/Apply/JobResumeUploadComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0FwcGx5L0pvYlJlc3VtZVVwbG9hZENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Shared/Apply/JobReviewComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0FwcGx5L0pvYlJldmlld0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Shared/Apply/JobSubmitSuccessComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0FwcGx5L0pvYlN1Ym1pdFN1Y2Nlc3NDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Shared/Banner.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0Jhbm5lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Shared/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0Zvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Shared/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0hlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Pages/Jobs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSm9icy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-jdz52v8uoc
+
+[/Users/tiffanykim/Desktop/FWCP/UI/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7tlgx6hz38

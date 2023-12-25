@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CareerWebApp.Models/1.0.0": {
+        "runtime": {
+          "CareerWebApp.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CareerWebApp.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
