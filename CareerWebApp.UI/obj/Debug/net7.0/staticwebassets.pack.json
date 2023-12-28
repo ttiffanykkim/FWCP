@@ -1,0 +1,201 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/obj/Debug/net7.0/build-gz/9Clu7hNJ.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/obj/Debug/net7.0/scopedcss/bundle/CareerWebApp.UI.styles.css",
+      "PackagePath": "staticwebassets/CareerWebApp.UI.styles.css"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/favicon-16x16.png",
+      "PackagePath": "staticwebassets/favicon-16x16.png"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/benefits/BenefitsAtUJU.jpg",
+      "PackagePath": "staticwebassets/img/benefits/BenefitsAtUJU.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/benefits/Celebrating.jpg",
+      "PackagePath": "staticwebassets/img/benefits/Celebrating.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/index/Benefits.jpg",
+      "PackagePath": "staticwebassets/img/index/Benefits.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/index/Corporate Support.jpg",
+      "PackagePath": "staticwebassets/img/index/Corporate Support.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/index/Customer Solutions.jpg",
+      "PackagePath": "staticwebassets/img/index/Customer Solutions.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/index/Design.jpg",
+      "PackagePath": "staticwebassets/img/index/Design.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/index/Home.jpg",
+      "PackagePath": "staticwebassets/img/index/Home.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/index/Intern.jpg",
+      "PackagePath": "staticwebassets/img/index/Intern.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/index/LifeAt.jpg",
+      "PackagePath": "staticwebassets/img/index/LifeAt.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/index/Marketing.jpg",
+      "PackagePath": "staticwebassets/img/index/Marketing.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/index/Push.jpg",
+      "PackagePath": "staticwebassets/img/index/Push.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/index/Sales.jpg",
+      "PackagePath": "staticwebassets/img/index/Sales.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/index/Technology.jpg",
+      "PackagePath": "staticwebassets/img/index/Technology.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/intern/Internship.jpg",
+      "PackagePath": "staticwebassets/img/intern/Internship.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/life/ALocation.jpg",
+      "PackagePath": "staticwebassets/img/life/ALocation.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/life/AWorker.jpg",
+      "PackagePath": "staticwebassets/img/life/AWorker.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/life/BLocation.jpg",
+      "PackagePath": "staticwebassets/img/life/BLocation.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/life/BWorker.jpg",
+      "PackagePath": "staticwebassets/img/life/BWorker.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/life/CLocation.jpg",
+      "PackagePath": "staticwebassets/img/life/CLocation.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/life/CWorker.jpg",
+      "PackagePath": "staticwebassets/img/life/CWorker.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/life/DLocation.jpg",
+      "PackagePath": "staticwebassets/img/life/DLocation.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/life/DWorker.jpg",
+      "PackagePath": "staticwebassets/img/life/DWorker.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/life/EWorker.jpg",
+      "PackagePath": "staticwebassets/img/life/EWorker.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/life/LifeAtUju.jpg",
+      "PackagePath": "staticwebassets/img/life/LifeAtUju.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/img/life/Map.jpg",
+      "PackagePath": "staticwebassets/img/life/Map.jpg"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.UI/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.CareerWebApp.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.CareerWebApp.UI.props",
+      "PackagePath": "build\\CareerWebApp.UI.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CareerWebApp.UI.props",
+      "PackagePath": "buildMultiTargeting\\CareerWebApp.UI.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CareerWebApp.UI.props",
+      "PackagePath": "buildTransitive\\CareerWebApp.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
