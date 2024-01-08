@@ -199,14 +199,14 @@
       "netstandard.dll": "sha256-TztlSRjADgiEABbiAMdWZpHrUVd8wnRtQRAvlwmRP\/4=",
       "System.Private.CoreLib.dll": "sha256-BAhrZ8Zg3cJKQipxdzqQo+9jtPkOkRx1ou3oIhDohtk=",
       "CareerWebApp.Models.dll": "sha256-1P9P0UNiF24wbam+z+6OzRf8z1k2L\/d2144uZqxuqk4=",
-      "CareerWebApp.UI.dll": "sha256-twLvMNUuXKEURuFxq8GtbjmHhZPaQL4Sq+yZHzxInB8="
+      "CareerWebApp.UI.dll": "sha256-q5gcuZVryHnkjZShn4TRKDv8QrbEI63xzz5cauNEYNg="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "CareerWebApp.Models.pdb": "sha256-85RfhESqIf7baCOX6BG7hgpFags+hSj4j5cmF4kfw9c=",
-      "CareerWebApp.UI.pdb": "sha256-Yz0V5RuTIy5LfSqm4gGUtSbsf8hFas3qI6Axspl3Sp4="
+      "CareerWebApp.UI.pdb": "sha256-tjcGBYL59a8QkWOniRSvl2qICkgQ0TvvCYHLNvJXzUs="
     },
     "runtime": {
       "dotnet.7.0.14.esd5hyslz2.js": "sha256-YWGUknGRzP\/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",

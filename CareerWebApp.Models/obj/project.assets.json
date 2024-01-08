@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.Models/CareerWebApp.Models.csproj",
+      "projectUniqueName": "/Users/tiffanykim/Desktop/FWCP/CareerWebApp.Models/CareerWebApp.Models.csproj",
       "projectName": "CareerWebApp.Models",
-      "projectPath": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.Models/CareerWebApp.Models.csproj",
+      "projectPath": "/Users/tiffanykim/Desktop/FWCP/CareerWebApp.Models/CareerWebApp.Models.csproj",
       "packagesPath": "/Users/tiffanykim/.nuget/packages/",
-      "outputPath": "/Users/tiffanykim/Desktop/CareerWebApp/FWCP/CareerWebApp.Models/obj/",
+      "outputPath": "/Users/tiffanykim/Desktop/FWCP/CareerWebApp.Models/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tiffanykim/.nuget/NuGet/NuGet.Config"

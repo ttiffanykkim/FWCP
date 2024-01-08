@@ -12,7 +12,7 @@ namespace CareerWebApp.Models.Job
         public string JobTitle { get; set; }
         public string Department { get; set; }
         public string Location { get; set; }
-        public DateTime PostedAt { get; set; }
+        public DateTime CreatedAt { get; set; }
 
     }
 }
